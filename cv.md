@@ -1,3 +1,5 @@
+![Daria Imbireva](assets/img/cv.jpg)
+
 # Daria Imbireva
 
 ## Contacts
