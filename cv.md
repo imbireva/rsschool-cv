@@ -1,4 +1,4 @@
-![Daria Imbireva](src/assets/img/cv.jpg)
+![Daria Imbireva](assets/img/cv.jpg)
 
 # Daria Imbireva
 
