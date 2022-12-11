@@ -45,7 +45,6 @@ html {
 }
 
 .link {
-  display: block;
   color: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -293,6 +292,7 @@ html {
 }
 
 .link_rs-logo {
+  display: block;
   width: 100px;
   height: 40px;
   background-image: url(assets/svg/rsschool.svg);
