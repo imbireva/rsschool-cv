@@ -314,12 +314,9 @@ pre {
 }
 
 .rs-logo {
+  display: block;
   width: 100px;
   height: 40px;
-  background-image: url(assets/svg/rsschool.svg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
 }
 
 @media (max-width: 1000px) {
